@@ -52,6 +52,7 @@ C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\O
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Framework.dll
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Rules.dll
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Tokens.dll
+C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Workflows.dll
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Xipton.Razor.dll
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\FluentNHibernate.dll
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Autofac.dll
@@ -65,6 +66,8 @@ C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\O
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\NHibernate.Linq.dll
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Autofac.Configuration.dll
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\System.Web.Http.WebHost.dll
+C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Roles.dll
+C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Comments.dll
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Iesi.Collections.dll
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\System.Net.Http.Formatting.dll
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Framework.pdb
@@ -72,6 +75,7 @@ C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\O
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Forms.pdb
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Rules.pdb
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Tokens.pdb
+C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Workflows.pdb
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\HtmlAgilityPack.pdb
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\HtmlAgilityPack.xml
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Xipton.Razor.pdb
@@ -88,6 +92,8 @@ C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\O
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Autofac.Configuration.pdb
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Autofac.Configuration.xml
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\System.Web.Http.WebHost.xml
+C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Roles.pdb
+C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Orchard.Comments.pdb
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\Iesi.Collections.xml
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\bin\System.Net.Http.Formatting.xml
 C:\Users\gqadonis\Documents\GitHub\Pharmalto-Services\orchard_a8217097cf2a\src\Orchard.Web\Modules\DarkSky.Messaging\obj\Debug\DarkSky.Messaging.csprojResolveAssemblyReference.cache

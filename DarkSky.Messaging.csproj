@@ -284,8 +284,13 @@
       <Project>{6f759635-13d7-4e94-bcc9-80445d63f117}</Project>
       <Name>Orchard.Tokens</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Orchard.Workflows\Orchard.Workflows.csproj">
+      <Project>{7059493c-8251-4764-9c1e-2368b8b485bc}</Project>
+      <Name>Orchard.Workflows</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Activities\TemplatedMessageTask.cs" />
     <Compile Include="Controllers\MessageTemplateController.cs" />
     <Compile Include="Handlers\MessagingSiteSettingsPartHandler.cs" />
     <Compile Include="Services\IParserEngine.cs" />
@@ -336,6 +341,7 @@
   <ItemGroup>
     <Content Include="Views\DefinitionTemplates\MessageTemplatePartSettings.cshtml" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
